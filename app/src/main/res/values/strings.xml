@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QMath</string>
+    <string name="description">W tym miejscu pojawi się opis zadania</string>
+    <string name="exercise">W tym miejscu pojawi się zadanie do rozwiązania</string>
+    <string name="firstAnswer">Odpowiedź</string>
+    <string name="secondAnswer">Odpowiedź</string>
+    <string name="thirdAnswer">Odpowiedź</string>
+    <string name="nextExercise">Następne zadanie</string>
+</resources>
